@@ -2,22 +2,13 @@ using System;
 
 // Create a Hello Hills Road program in GitHub
 
-namespace Hello
-
+namespace Demo
 {
-
-class HelloHillsRoad
-
-{
-
-static void Main()
-
-{
-
-System.WriteLine("Hello Hills Road!");
-
-}
-
-}
-
+  class HelloHillsRoad
+  {    
+    static void Main()
+    {
+      System.WriteLine("Hello Hills Road!");
+    }
+  }
 }
